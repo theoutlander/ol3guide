@@ -8,4 +8,4 @@ OpenLayers 3: Interactive Guide
 
 
 
-<iframe width="100%" height="300px" src="../examples/basic.html"></iframe>
+<iframe width="100%" height="300px" src="./examples/basic.html"></iframe>
