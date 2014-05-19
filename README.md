@@ -1,4 +1,8 @@
 OpenLayers 3: Interactive Guide
 ===============================
 
-Welcome to the Interactive Guide to OpenLayers 3!
+
+<br>
+
+<iframe width="100%" height="300px" src="http://jsfiddle.net/theoutlander/UUkSt/2/embedded/result/"></iframe>
+
