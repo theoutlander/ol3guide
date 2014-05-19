@@ -1,4 +1,4 @@
-OpenLayersInteractive
-=====================
+OpenLayers 3: Interactive Guide
+===============================
 
-Interactive OpenLayers 3
+Welcome to the Interactive Guide to OpenLayers 3!
