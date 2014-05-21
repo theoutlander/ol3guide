@@ -1,0 +1,45 @@
+<html>
+<head>
+<script type='text/javascript' src="http://ol3js.org/en/master/build/ol-whitespace.js"></script>
+<link rel="stylesheet" type="text/css" href="http://ol3js.org/en/master/css/ol.css">
+
+ <style type='text/css'>
+    .mapViewport {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    position: fixed;
+}
+  </style>
+</head>
+
+<body>
+
+  <div class="mapViewport">
+    <div id="map" class="Map">
+        
+    </div>
+</div>
+
+
+<script type='text/javascript'>//<![CDATA[ 
+
+var map = new ol.Map({
+    layers: [
+    new ol.layer.Tile({
+        source: new ol.source.OSM()
+    })],
+    renderer: 'canvas',
+    target: 'map',
+    view: new ol.View2D({
+        center: [0, 0],
+        zoom: 2
+    })
+});
+//]]>  
+
+</script>
+
+</body>
+</html>
