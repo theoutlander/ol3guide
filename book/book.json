@@ -4,7 +4,7 @@
     "title": "OpenLayers 3: Interactive Guide",
     "description": "OpenLayers is a high-performance, feature-packed javascript library for web-based cartography",
     "github": null,
-    "githubHost": "https: //github.com/",
+    "githubHost": "https://github.com/",
     "plugin": [
         "pdf",
         "convert",
